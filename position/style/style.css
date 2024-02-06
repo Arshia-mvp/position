@@ -1,0 +1,167 @@
+body{
+    background-image: url(../images/moshack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 100vw;
+    height: 60px;
+    background-color: rgba(192, 192, 192, 0.76);    
+    margin-top: -10px;
+    margin-left: -8px;
+}
+
+.box-3{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(192, 192, 192, 0.76);
+    border-radius: 30px;
+    margin-left: 830px;
+    margin-top: 40px;
+    position: absolute;
+}
+
+.p{
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.p-1{
+    margin-left: 10px;
+    text-align: center;
+}
+
+.input{
+    width: 300px;
+    height: 35px;
+    border-radius: 30px;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+.input-1{
+    width: 300px;
+    height: 35px;
+    text-align: center;
+    background-color: rgb(132, 0, 255);
+    margin-top: 100px;
+    border-radius: 30px;
+    margin-left: -305px;
+    margin-top: 65px;
+    position: absolute;
+}
+.input-1:hover{
+    background-color: rgba(97, 9, 179, 0.795);
+}
+
+.p-2{
+    margin-left: 190px;
+    margin-top: 100px;
+}
+.p-3{
+    margin-left: 95px;
+}
+
+.box-4{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 30px;
+    background-image: url(../images/boy.jpg);
+    background-size: cover;
+    margin-top: 30px;
+    margin-left: 20px;
+    position: absolute;
+}
+.box-5{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 30px;
+    background-image: url(../images/boy\ -\ 1.jpg);
+    background-size: cover;
+    margin-left: 95px;
+    margin-top: 47px;
+}
+.box-6{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 30px;
+    background-image: url(../images/boy\ -\ 2.jpg);
+    background-size: cover;
+    margin-left: 170px;
+    margin-top: -60px;
+}
+.box-7{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 30px;
+    background-image: url(../images/girl.jpg);
+    background-size: cover;
+    margin-left: 245px;
+    margin-top: -60px;
+}
+.box-8{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 30px;
+    background-image: url(../images/girl\ -\ 1.jpg);
+    background-size: cover;
+    margin-left: 320px;
+    margin-top: -60px;
+}
+.li-1{
+    display: block;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 370px;
+}
+.li-2{
+    display: block;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 460px;
+}
+.li-3{
+    display: block;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 580px;
+}
+.li-4{
+    display: block;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 700px;
+}
+.li-5{
+    display: block;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 780px;
+}
+.li-6{
+    display: block;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 1010px;
+}
+.card-yourcart{
+    color: black;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 1150px;
+}
+i-1{
+    color: black;
+    margin-top: -545px;
+    position: absolute;
+    margin-left: 405px;
+}
+.f{
+    color: black;
+    margin-top: 18px;
+    position: absolute;
+    margin-left: 1270px;
+}
